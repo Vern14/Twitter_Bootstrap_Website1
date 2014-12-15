@@ -1,0 +1,16 @@
+body{background-color:#101010; margin-right:150px;margin-left:180px; }
+		#vern{ background-color:white; padding:30px;  padding-left:80px;}
+		#footer{ background-color:black; padding:20px; padding-bottom:5px;}
+		#newdiv{background-color:white; color: black; padding:40px;}
+		h1{color:silver;}
+		.navbar-wrapper{position: relative; right:60px; bottom:-15px;}
+		.pagination{position:relative; left:230px;}
+		#side{position:absolute; left:-25px; }
+		a{color:silver; }
+		.hero-unit{border-radius:0px; padding:20px; font-size:14px;position:relative; bottom:20px;}
+		#testdiv{ position:relative; padding-left:160px;background-color: rgba(0,0,0,0.60); color:white;}
+		#formdiv{ background-image:url(DSC_0196.JPG);  }
+		hr{border:1px solid black;}
+		#gallerydiv{background-color:black; padding:10px;  position:relative; bottom:48px; color:silver; column-count:2;-moz-column-count:2; /* Firefox */-webkit-column-count:2; /* Safari and Chrome */}
+		h2,h5{background-color: black; color: silver; margin:10px;}
+		<!--.brand{background-image:url(ROTIA.JPG');}-->
